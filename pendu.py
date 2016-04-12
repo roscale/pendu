@@ -1,0 +1,1 @@
+file object = open(mots.txt, r)
